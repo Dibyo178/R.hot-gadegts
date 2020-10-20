@@ -47,5 +47,25 @@ ul.nav a:hover { color: black !important; }
    text-decoration: yellow;
 }
 .bag{
-    margin-top: 100px;
+    margin-top: 120px;
+}
+.carousel-indicators li{
+    background-color: gray;
+}
+.carousel-indicators li.active{
+    background-color: orange;
+}
+#cat{
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 20px 5px 20px 5px;
+    padding: 20px 10px;
+    margin: 60px 0px;
+}
+.line{
+    height: 8px;
+    width: 100px;
+    border-radius: 4px;
+    background-color: orange;
+    margin: 0 auto;
 }
